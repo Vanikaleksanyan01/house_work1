@@ -1,0 +1,134 @@
+.div{
+	border: 2px solid black;
+	width: 1280px;
+	height: 750px;
+	background-color: #1B3653;
+}
+
+.div1{
+	width: 1500px;
+	height: 200px;
+	display: flex;
+	margin: 70px 120px -30px 130px;
+}
+
+.div1-1{
+	width: 250px;
+	height: 150px;	
+	background-color: #8DD4FF;
+	margin: 0px 10px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+}
+
+.div1-2{
+	width: 450px;
+	height: 150px;	
+	background-color: #F28A87;
+	margin: 0px 10px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+}
+
+.div1-3{
+	width: 250px;
+	height: 150px;	
+	background-color: #CAE067;
+	margin: 0px 10px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+}
+
+
+
+.div2{
+	width: 1500px;
+	height: 200px;
+	display: flex;	
+	margin: -30px 130px;
+
+}
+
+.div2-1{
+	width: 350px;
+	height: 150px;	
+	background-color: #8DD4FF;
+	margin: 0px 10px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.div2-2{
+	width: 250px;
+	height: 150px;	
+	background-color: #F28A87;
+	margin: 0px 10px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.div2-3{
+	width: 350px;
+	height: 150px;	
+	background-color: #CAE067;
+	margin: 0px 10px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.div3{
+	width: 1500px;
+	height: 200px;	
+	display: flex;
+	margin: 0px 130px -30px 130px;
+	
+}
+
+.div3-1{
+	width: 250px;
+	height: 150px;	
+	background-color: #8DD4FF;
+	margin: 0px 10px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: end;
+}
+
+.div3-2{
+	width: 330px;
+	height: 150px;	
+	background-color: #F28A87;
+	margin: 0px 10px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: end;
+}
+
+.div3-3{
+	width: 370px;
+	height: 150px;	
+	background-color: #CAE067;
+	margin: 0px 10px;
+	border-radius: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: end;
+}
+
+.vernagir{
+	font-size: 100px;
+	color: white;
+	margin: 0px 260px;
+}

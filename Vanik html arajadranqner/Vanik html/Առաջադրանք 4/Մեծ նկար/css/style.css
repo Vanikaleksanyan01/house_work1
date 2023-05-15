@@ -1,0 +1,307 @@
+.div{
+	width: 850px;
+	height: 502px;
+	border: 2px solid black;
+	display: flex;
+	margin: 100px 100px;
+}
+.flex{
+	display: flex;
+}
+.colum{
+	display: colum;
+}
+.div1-1{
+	width: 150px;
+	height: 200px;
+	background-color: #C37576;
+}
+
+.div1-2{
+	width: 75px;
+	height: 200px;
+	background-color: #732502;
+}
+
+.div1-3{
+	width: 85px;
+	height: 125px;
+	background-color: #D34525;
+}
+
+.div1-4{
+	width: 85px;
+	height: 75px;
+	background-color: #DC641C;
+}
+
+.div1-5{
+	width: 45px;
+	height: 90px;
+	background-color: #CC5734;
+}
+
+.div1-6{
+	width: 55px;
+	height: 90px;
+	background-color: #C83509;
+}
+
+.div1-7{
+	width: 100px;
+	height: 40px;
+	background-color: #D55020;
+}
+
+.div1-8{
+	width: 100px;
+	height: 70px;
+	background-color: #E19D61;
+}
+
+.div1-9{
+	width: 25px;
+	height: 85px;
+	background-color: #4C1503;
+}
+
+.div1-10{
+	width: 55px;
+	height: 85px;
+	background-color: #1E3A2E;
+}
+
+.div1-11{
+	width: 80px;
+	height: 40px;
+	background-color: #273B32;
+}
+
+.div1-12{
+	width: 80px;
+	height: 75px;
+	background-color: #68614F;
+}
+
+.div1-13{
+	width: 35px;
+	height: 105px;
+	background-color: #C3CD74;
+}
+
+.div1-14{
+	width: 85px;
+	height: 105px;
+	background-color: #C0887C;
+}
+
+.div1-15{
+	width: 85px;
+	height: 95px;
+	background-color: #C6B35D;
+}
+
+.div1-16{
+	width: 35px;
+	height: 95px;
+	background-color: #CB7F55;
+}
+
+.div2-1{
+	width: 100px;
+	height: 170px;
+	background-color: #D0685A;
+}
+
+.div2-2{
+	width: 145px;
+	height: 170px;
+	background-color: #999B92;
+}
+
+.div2-3{
+	width: 140px;
+	height: 120px;
+	background-color: #856760;
+}
+
+.div2-4{
+	width: 105px;
+	height: 120px;
+	background-color: #B1A490;
+}
+
+.div2-5{
+	width: 130px;
+	height: 12px;
+	background-color: #394C38;
+}
+
+.div2-6{
+	width: 115px;
+	height: 12px;
+	background-color: #888270;
+}
+
+.div2-7{
+	width: 115px;
+	height: 270px;
+	background-color: #E3B078;
+}
+
+.div2-8{
+	width: 137px;
+	height: 270px;
+	background-color: #8A6F64;
+}
+
+.div2-9{
+	width: 113px;
+	height: 100px;
+	background-color: #D49C27;
+}
+
+.div2-10{
+	width: 113px;
+	height: 170px;
+	background-color: #D5B954;
+}
+
+.div2-11{
+	width: 125px;
+	height: 32px;
+	background-color: #767775;
+}
+
+.div2-12{
+	width: 100px;
+	height: 32px;
+	background-color: #918593;
+}
+
+.div2-13{
+	width: 140px;
+	height: 32px;
+	background-color: #CABD9B;
+}
+
+.div3-1{
+	width: 80px;
+	height: 115px;
+	background-color: #C1443F;
+}
+
+.div3-2{
+	width: 80px;
+	height: 115px;
+	background-color: #A21702;
+}
+
+.div3-3{
+	width: 40px;
+	height: 73px;
+	background-color: #00313D;
+}
+
+.div3-4{
+	width: 40px;
+	height: 42px;
+	background-color: #254D56;
+}
+
+.div3-5{
+	width: 40px;
+	height: 42px;
+	background-color: #00405B;
+}
+
+.div3-6{
+	width: 40px;
+	height: 73px;
+	background-color: #004260;
+}
+
+.div3-7{
+	width: 65px;
+	height: 33px;
+	background-color: #C64E32;
+}
+
+.div3-8{
+	width: 65px;
+	height: 48px;
+	background-color: #CD5731;
+}
+
+.div3-9{
+	width: 30px;
+	height: 81px;
+	background-color: #C9381B;
+}
+
+.div3-10{
+	width: 65px;
+	height: 81px;
+	background-color: #89411C;
+}
+
+.div3-11{
+	width: 80px;
+	height: 31px;
+	background-color: #017D81;
+}
+
+.div3-12{
+	width: 80px;
+	height: 50px;
+	background-color: #47848C;
+}
+
+.div3-13{
+	width: 103px;
+	height: 99px;
+	background-color: #D0440B;
+}
+
+.div3-14{
+	width: 103px;
+	height: 60px;
+	background-color: #D17837;
+}
+
+.div3-15{
+	width: 137px;
+	height: 52px;
+	background-color: #507B84;
+}
+
+.div3-16{
+	width: 137px;
+	height: 107px;
+	background-color: #6B7280;
+}
+
+.div3-17{
+	width: 130px;
+	height: 147px;
+	background-color: #D28750;
+}
+
+.div3-18{
+	width: 70px;
+	height: 147px;
+	background-color: #A98182;
+}
+
+
+.div3-19{
+	width: 40px;
+	height: 65px;
+	background-color: #3E6F75;
+}
+
+.div3-20{
+	width: 40px;
+	height: 82px;
+	background-color: #7C7B81;
+}

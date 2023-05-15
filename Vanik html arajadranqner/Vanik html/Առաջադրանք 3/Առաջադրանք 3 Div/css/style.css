@@ -1,0 +1,29 @@
+.div1{
+	width: 700px;
+	height: 715px;
+	border: 3px solid #f57f17;
+	background: #fff9c4b5;
+}
+.h1{
+	margin-left: 20px;
+	margin-top: 50px;
+}
+
+.nkar{
+	width: 520px;
+	height: 170px;
+	border: 6px inset #f57f17;
+	margin-left: 20px;
+}
+.text2{
+	text-decoration: underline;
+}
+.text1{
+	width: 512px;
+	height: 350px;
+	background-color: #ffeb3b;
+	border: 10px dashed #ffb300;
+	margin-left: 20px;
+	overflow-y: scroll;
+	margin-top: 35px;
+}
